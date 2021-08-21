@@ -1,0 +1,10 @@
+target:
+  - lsass
+  - sam
+  - credential
+
+  - chrome
+  - firefox
+  - edge
+  - IE
+  
